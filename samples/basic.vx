@@ -1,0 +1,6 @@
+// let number: int = 69;
+// let sentence: string = "to be or not to be, that is the question";
+// let true_or_false: bool = false;
+// let pi: float = 3.14;
+
+let number;
